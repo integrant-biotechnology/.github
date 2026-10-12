@@ -13,6 +13,14 @@ Integrant designs and delivers orthopaedic implant systems, biologics and surgic
 | **Contact** | [integrant.com.au/contact](https://integrant.com.au/contact) · admin@integrant.com.au |
 | **Address** | 5 Ward Avenue, Potts Point NSW 2011, Australia |
 
+## Repositories
+
+| Repository | Description | Live site |
+|---|---|---|
+| [integrant](https://github.com/integrant-biotechnology/integrant) | Company website — products, research, innovation and information for surgeons and partners | [integrant.com.au](https://integrant.com.au) |
+| [chaos-to-creation](https://github.com/integrant-biotechnology/chaos-to-creation) | Website for the book *Chaos to Creation* by Prof. Gordon Slater | [chaostocreation.com.au](https://chaostocreation.com.au) |
+| [prof-gordon-slater](https://github.com/integrant-biotechnology/prof-gordon-slater) | Personal website of Prof Gordon Slater, founder | [profgordonslater.com.au](https://profgordonslater.com.au) |
+
 ---
 
 <sub>Product information published by Integrant is intended for healthcare professionals in Australia and New Zealand. Nothing in these repositories constitutes medical advice.</sub>
